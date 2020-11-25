@@ -25,6 +25,8 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
+//checking for push success
+
 public class MainActivity extends AppCompatActivity {
 
     EditText editTextName;
